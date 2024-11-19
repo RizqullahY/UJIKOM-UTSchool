@@ -1,0 +1,123 @@
+{
+  "menuItems": [
+    {
+      "id": "1",
+      "name": "Spaghetti Carbonara",
+      "description": "Pasta Italia klasik dengan saus krim dan pancetta",
+      "price": 129900,
+      "imageUri": "https://lifestyle.haluan.co/wp-content/uploads/2024/06/pasta-carbonara-scaled.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Pizza Margherita",
+      "description": "Pizza tradisional dengan tomat, mozarella, dan basil",
+      "price": 109900,
+      "imageUri": "https://images.prismic.io/eataly-us/ed3fcec7-7994-426d-a5e4-a24be5a95afd_pizza-recipe-main.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Salad Caesar",
+      "description": "Selada romaine yang renyah dengan saus Caesar dan crouton",
+      "price": 89900,
+      "imageUri": "https://awsimages.detik.net.id/community/media/visual/2020/12/22/chicken-caesar-salad_43.jpeg"
+    },
+    {
+      "id": "4",
+      "name": "Tiramisu",
+      "description": "Hidangan penutup klasik Italia dengan lapisan ladyfingers",
+      "price": 69900,
+      "imageUri": "https://www.frisianflag.com/storage/app/media/uploaded-files/itra.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Sushi",
+      "description": "Hidangan nasi Jepang yang dipadukan dengan berbagai topping laut",
+      "price": 99900,
+      "imageUri": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2023/11/1/66f52fd6-0fe4-48b3-8e84-78255dd11612.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Pad Thai",
+      "description": "Mie goreng Thailand dengan saus asam manis yang khas",
+      "price": 89900,
+      "imageUri": "https://inquiringchef.com/wp-content/uploads/2023/02/Authentic-Pad-Thai_square-1908-500x375.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Pho",
+      "description": "Sup mie Vietnam dengan kaldu yang kaya rasa dan rempah-rempah",
+      "price": 79900,
+      "imageUri": "https://www.recipetineats.com/tachyon/2019/04/Beef-Pho_6.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Tacos",
+      "description": "Tortilla jagung Meksiko yang diisi dengan daging, sayuran, dan saus",
+      "price": 69900,
+      "imageUri": "https://esensi.tv/wp-content/uploads/2023/11/tacos.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Hamburger",
+      "description": "Roti bundar yang diisi dengan patty daging, sayuran, dan saus",
+      "price": 59900,
+      "imageUri": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2023/12/23/hamburgerjpg-20231223081701.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Matcha Latte",
+      "description": "Minuman teh hijau Jepang yang dicampur dengan susu",
+      "price": 39900,
+      "imageUri": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/7cfb79f22186cc268533023e8dd80b76/Derivates/332ef194335299044ce59aeff0d600482d22b916.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Thai Iced Tea",
+      "description": "Teh Thailand yang dicampur dengan susu kental manis, gula, dan es",
+      "price": 29900,
+      "imageUri": "https://inquiringchef.com/wp-content/uploads/2020/02/Thai-Iced-Tea_1.jpg"
+    }
+  ],
+  "customerOrders": [
+    {
+      "id": "160c",
+      "customerName": "Galih",
+      "totalAmount": 80000,
+      "orderDate": "2024-06-14",
+      "status": "Confirmed"
+    },
+    {
+      "id": "271d",
+      "customerName": "Kamal",
+      "totalAmount": 999000,
+      "orderDate": "2024-06-30",
+      "status": "Pending"
+    }
+  ],
+  "tableReservations": [
+    {
+      "id": "8c31",
+      "customerName": "Uus",
+      "reservationDate": "2005-07-06",
+      "time": "15:30",
+      "tableNumber": 3,
+      "status": "Pending"
+    },
+    {
+      "id": "4657",
+      "customerName": "Ry",
+      "reservationDate": "54541",
+      "time": "12:80",
+      "tableNumber": 9,
+      "status": "Pending"
+    },
+    {
+      "id": "c3a5",
+      "customerName": "Raf",
+      "reservationDate": "56",
+      "time": "555",
+      "tableNumber": 666,
+      "status": "Confirmed"
+    }
+  ]
+}
